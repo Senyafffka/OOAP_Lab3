@@ -1,0 +1,10 @@
+D:\Visual Studio\Project\ООАП_Лаб3СПаттерном\ООАП_Лаб3СПаттерном\bin\Debug\ООАП_Лаб3СПаттерном.exe.config
+D:\Visual Studio\Project\ООАП_Лаб3СПаттерном\ООАП_Лаб3СПаттерном\bin\Debug\ООАП_Лаб3СПаттерном.exe
+D:\Visual Studio\Project\ООАП_Лаб3СПаттерном\ООАП_Лаб3СПаттерном\bin\Debug\ООАП_Лаб3СПаттерном.pdb
+D:\Visual Studio\Project\ООАП_Лаб3СПаттерном\ООАП_Лаб3СПаттерном\obj\Debug\ООАП_Лаб3СПаттерном.csproj.AssemblyReference.cache
+D:\Visual Studio\Project\ООАП_Лаб3СПаттерном\ООАП_Лаб3СПаттерном\obj\Debug\ООАП_Лаб3СПаттерном.Form1.resources
+D:\Visual Studio\Project\ООАП_Лаб3СПаттерном\ООАП_Лаб3СПаттерном\obj\Debug\ООАП_Лаб3СПаттерном.Properties.Resources.resources
+D:\Visual Studio\Project\ООАП_Лаб3СПаттерном\ООАП_Лаб3СПаттерном\obj\Debug\ООАП_Лаб3СПаттерном.csproj.GenerateResource.cache
+D:\Visual Studio\Project\ООАП_Лаб3СПаттерном\ООАП_Лаб3СПаттерном\obj\Debug\ООАП_Лаб3СПаттерном.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\ООАП_Лаб3СПаттерном\ООАП_Лаб3СПаттерном\obj\Debug\ООАП_Лаб3СПаттерном.exe
+D:\Visual Studio\Project\ООАП_Лаб3СПаттерном\ООАП_Лаб3СПаттерном\obj\Debug\ООАП_Лаб3СПаттерном.pdb

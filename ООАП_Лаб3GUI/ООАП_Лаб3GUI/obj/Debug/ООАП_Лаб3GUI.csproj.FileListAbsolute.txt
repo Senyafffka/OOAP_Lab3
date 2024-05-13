@@ -1,0 +1,10 @@
+D:\Visual Studio\Project\ООАП_Лаб3GUI\ООАП_Лаб3GUI\bin\Debug\ООАП_Лаб3GUI.exe.config
+D:\Visual Studio\Project\ООАП_Лаб3GUI\ООАП_Лаб3GUI\bin\Debug\ООАП_Лаб3GUI.exe
+D:\Visual Studio\Project\ООАП_Лаб3GUI\ООАП_Лаб3GUI\bin\Debug\ООАП_Лаб3GUI.pdb
+D:\Visual Studio\Project\ООАП_Лаб3GUI\ООАП_Лаб3GUI\obj\Debug\ООАП_Лаб3GUI.csproj.AssemblyReference.cache
+D:\Visual Studio\Project\ООАП_Лаб3GUI\ООАП_Лаб3GUI\obj\Debug\ООАП_Лаб3GUI.Form1.resources
+D:\Visual Studio\Project\ООАП_Лаб3GUI\ООАП_Лаб3GUI\obj\Debug\ООАП_Лаб3GUI.Properties.Resources.resources
+D:\Visual Studio\Project\ООАП_Лаб3GUI\ООАП_Лаб3GUI\obj\Debug\ООАП_Лаб3GUI.csproj.GenerateResource.cache
+D:\Visual Studio\Project\ООАП_Лаб3GUI\ООАП_Лаб3GUI\obj\Debug\ООАП_Лаб3GUI.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\ООАП_Лаб3GUI\ООАП_Лаб3GUI\obj\Debug\ООАП_Лаб3GUI.exe
+D:\Visual Studio\Project\ООАП_Лаб3GUI\ООАП_Лаб3GUI\obj\Debug\ООАП_Лаб3GUI.pdb
